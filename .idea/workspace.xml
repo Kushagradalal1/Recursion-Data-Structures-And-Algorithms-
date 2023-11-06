@@ -5,19 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b44b66f4-3c6a-45c1-bacd-5b11c54153bf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Recursion DSA.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PrintNthtoOneRecursion/PrintNthToOneRecursion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/RecursionExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/RecursionExampleTwo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/RecursionOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/RecursionThree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/RecursionTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PrintOnetoNthRecursion/PrintOneToNthRecursion.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +35,7 @@
     "onboarding.tips.debug.path": "/Users/kushagradalal/Downloads/Recursion DSA/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.PrintNthToOneRecursion">
+  <component name="RunManager" selected="Application.PrintOneToNthRecursion">
     <configuration name="PrintNthToOneRecursion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PrintNthtoOneRecursion.PrintNthToOneRecursion" />
       <module name="Recursion DSA" />
@@ -61,12 +49,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RecursionExampleTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Recursion.RecursionExampleTwo" />
+    <configuration name="PrintOneToNthRecursion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PrintOnetoNthRecursion.PrintOneToNthRecursion" />
       <module name="Recursion DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Recursion.*" />
+          <option name="PATTERN" value="PrintOnetoNthRecursion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,11 +103,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PrintOneToNthRecursion" />
         <item itemvalue="Application.PrintNthToOneRecursion" />
         <item itemvalue="Application.RecursionThree" />
         <item itemvalue="Application.RecursionTwo" />
         <item itemvalue="Application.RecursionOne" />
-        <item itemvalue="Application.RecursionExampleTwo" />
       </list>
     </recent_temporary>
   </component>
